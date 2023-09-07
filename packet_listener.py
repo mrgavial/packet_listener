@@ -1,3 +1,5 @@
+#This code is only for getting the "username and password" entered in the login part of the HTTP sites.
+#Usually this "username and password" part will be in the "load" section
 
 import scapy.all as scapy
 from scapy_http import http
